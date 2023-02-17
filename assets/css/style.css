@@ -765,6 +765,11 @@ section {
 
 }
 
+.portfolio .gl-caption h6 {
+  padding-top: 10px;
+  text-align: center;
+}
+
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 20px auto;

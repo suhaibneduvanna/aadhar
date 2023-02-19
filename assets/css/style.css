@@ -8,6 +8,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Malayalam:wght@300;400;500;600;700&display=swap');
+
+
 body {
   font-family: "Raleway", sans-serif;
   color: #444444;
@@ -1160,6 +1164,11 @@ section {
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
+
+.mal-desc{
+  font-family: 'Noto Sans Malayalam', sans-serif;
+}
+
 .team {
   background: #fff;
   padding: 60px 0;

@@ -237,6 +237,7 @@
     selector: '.portfolio-lightbox',
     plyr:{
       config:{
+        ratio: '1:2',
         muted: true,
         hideControls: true,
       }

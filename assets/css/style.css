@@ -764,6 +764,24 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio-lightbox {
+  color: #343a40;
+  border-radius: 4px;
+  padding: 7px 25px 8px 25px;
+  white-space: nowrap;
+  transition: 0.3s;
+  font-size: 14px;
+  display: inline-block;
+  border: 2px solid #ffd103;
+}
+
+.portfolio-lightbox:hover {
+  background: #ffbb38;
+  color: #fff;
+}
+
+
+
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 

@@ -234,7 +234,14 @@
    * Initiate portfolio lightbox 
    */
   const portfolioLightbox = GLightbox({
-    selector: '.portfolio-lightbox'
+    selector: '.portfolio-lightbox',
+    plyr:{
+      config:{
+        muted: true,
+        hideControls: true,
+      }
+    }
+    
   });
 
   /**
